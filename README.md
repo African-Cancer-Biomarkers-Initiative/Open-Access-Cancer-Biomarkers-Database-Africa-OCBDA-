@@ -1,4 +1,4 @@
-# Cancer-Diagnosis-and-Treatment-Biomarkers-Africa
+# Cancer Diagnosis and Treatment Biomarkers, Africa
 
 Welcome to our database!
 
