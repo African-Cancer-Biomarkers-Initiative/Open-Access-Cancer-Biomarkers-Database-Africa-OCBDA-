@@ -1,4 +1,4 @@
-# Cancer Diagnosis and Treatment Biomarkers, Africa
+# Open Access Cancer Biomarkers Database, Africa (OACBDA)
 
 Welcome to our database!
 
